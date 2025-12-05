@@ -1,0 +1,19 @@
+# Python virtual environment
+venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Generated files (optional - uncomment if you don't want to track)
+# *.png
+# *.pdf
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
